@@ -1,0 +1,47 @@
+button{
+    margin-bottom: 20px;
+    width: 150px;
+    height: 70px;
+}
+
+.download1{
+    background-color: royalblue;
+    border: 25px, solid, royalblue;
+    color: white;
+}
+
+.download2{
+    background-color: white;
+    border: 3px, solid, rgb(7, 215, 7);
+    border-radius: 30px;
+    color: green;
+
+}
+.download3{
+    background-color: rgb(244, 4, 4);
+    border: 3px, solid, rgb(25, 26, 25);
+    border-radius: 12px;
+    color: white;
+
+}
+.download4{
+    background-color: rgb(5, 245, 73);
+    border: 3px, solid, green;
+    border-radius: 10px;
+    color: white;
+
+}
+.download5{
+    background-color: rgb(171, 14, 192);
+    border-bottom: 7px, solid, rgb(23, 25, 23);
+    color: white;
+    border-radius: 5px;
+ box-shadow: 0px 0px 5px 3px #0b0b0b;
+}
+.download6{
+    background-color:orange ;
+    border: 3px, solid, rgb(248, 176, 7);
+    border-radius: 5px;
+    color: white;
+    
+}
